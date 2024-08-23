@@ -33,5 +33,5 @@ func main() {
 	r := gin.Default()
 	r.GET("/json/normal/", getNormalJson)
 	r.GET("/json/struct/", getStructJson)
-)
+	r.Run()
 }

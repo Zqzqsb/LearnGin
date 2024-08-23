@@ -1,4 +1,4 @@
-module Zqzqsb.com/Demo
+module Zqzqsb.com/GetJson
 
 go 1.21.0
 

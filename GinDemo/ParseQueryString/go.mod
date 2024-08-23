@@ -1,4 +1,4 @@
-module Zqzqsb.com/Demo
+module Zqzqsb.com/ParseQueryString
 
 go 1.21.0
 
